@@ -27,3 +27,5 @@ The above instructions deviate from the original specifications of the 8085 or i
 - Ex: What if we want to support logical operations like AND, OR, XOR, etc. how is the implementation open to allow these extensions?
 - Ex: What if we want to add more registers - E & F, how can you take care of this extension/stretch?
 - The submitted code would be judged on both coding best practices and functional correctness.
+
+PS - This question has been asked in cred machine coding round
